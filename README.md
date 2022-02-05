@@ -11,3 +11,13 @@
 - 📫 How to reach me: https://bio.link/luislucena check my website and schedule a 1-1 meeting!!
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
+
+
+         |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+          I am an amateur autodidact!
+         |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+                     \ (-◡-) / 
+                       \ / 
+                        --
+                        | |
+                        |_ |_
