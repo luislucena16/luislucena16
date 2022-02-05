@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**luislucena16/luislucena16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://bio.link/luislucena check my website and schedule a 1-1 meeting!!
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
--->
