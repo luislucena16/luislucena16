@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="500" src="photo.jpeg" />
-   <h3 align="center">"It's that light at the end of the tunnel that makes us grow and innovate.. ❤️👨🏻‍💻"</h3>
+   <h3 align="center">"..It's that light at the end of the tunnel that makes us grow and innovate.. ❤️👨🏻‍💻"</h3>
 <p align="center">
 <a href="https://twitter.com/_luisald" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
