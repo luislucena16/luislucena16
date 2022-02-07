@@ -3,7 +3,7 @@
 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://drive.google.com/file/d/1FsFlQMjhp-ygWDOtEEdJb2PAuu0bOXbX/view?usp=sharing" />
+   <img align="center" width="200" src="https://pbs.twimg.com/media/FDeXdJhWEAISYpV?format=jpg&name=large" />
    <h3 align="center">¡Hey 👋! I am Luis 👨🏻‍💻</h3>
 </p>
 
