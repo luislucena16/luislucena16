@@ -19,7 +19,7 @@
 
 
          |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-           I am an amateur autodidact!
+           I am an autodidact amateur!
          |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
                      \ (-◡-) / 
                        \ / 
