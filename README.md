@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Luis Lucena 👇 , I'm a Blockchain Software Developer.
+My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
 
 <p align="center" width="300">
    <img align="center" width="500" src="photo.jpeg" />
