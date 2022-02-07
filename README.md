@@ -3,7 +3,10 @@
    <h3 align="center">¡Hey 👋! I am Luis 👨🏻‍💻</h3>
 </p>
 
-
+ <a href="https://twitter.com/midudev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
 
 
 - 🔭 I’m currently working with Blockchain Development and Business Automation ...
