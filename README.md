@@ -1,3 +1,7 @@
+# Hi there 
+
+My name is Luis Lucena 👇 , I'm a Blockchain Software Developer.
+
 <p align="center" width="300">
    <img align="center" width="500" src="photo.jpeg" />
    <h3 align="center">"..It's that light at the end of the tunnel that makes us grow and innovate.. ❤️👨🏻‍💻"</h3>
@@ -8,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working with Blockchain Development and Business Automation ...
+- 🔭 I’m currently working with Blockchain, Software Development and Business Automation ...
 - 🌱 I’m currently learning Rust, Solana ...
 - 👯 I’m looking to collaborate on differents projects about web3 and decentralized ecosystem ...
 - 🤔 I’m looking for help with projects about Games, IoT, GameFi ...
