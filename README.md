@@ -1,4 +1,4 @@
-<p align="center" width="600">
+<p align="center" width="300">
    <img align="center" width="500" src="photo.jpeg" />
    <h3 align="center">¡Hey 👋! I am Luis 👨🏻‍💻</h3>
 </p>
