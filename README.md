@@ -3,7 +3,7 @@
 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1432108714371297284/rOcVTdY2_400x400.jpg" />
+   <img align="center" width="200" src="https://drive.google.com/file/d/1FsFlQMjhp-ygWDOtEEdJb2PAuu0bOXbX/view?usp=sharing" />
    <h3 align="center">¡Hey 👋! I am Luis 👨🏻‍💻</h3>
 </p>
 
@@ -20,9 +20,9 @@
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
 
 
-         |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-          I am an amateur autodidact!
-         |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
+         |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+           I am an amateur autodidact!
+         |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
                      \ (-◡-) / 
                        \ / 
                         --
