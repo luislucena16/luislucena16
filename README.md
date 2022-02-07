@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="700" src="photo.jpeg" />
+   <img align="center" width="500" height="350" src="photo.jpeg" />
    <h3 align="center">¡Hey 👋! I am Luis 👨🏻‍💻</h3>
 </p>
 
