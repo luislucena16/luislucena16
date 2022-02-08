@@ -47,11 +47,8 @@ My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and 
  <a href="https://twitter.com/_luisald" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luis" height="28px" width="28px" />
  </a>
- <a href="https://twitter.com/_luisald" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luis" height="28px" width="28px" />
- </a>
- <a href="https://th.bing.com/th/id/R.10402e3621af84b92c24e0ee0d5122f0?rik=1gtWru4IxJEZPg&pid=ImgRaw&r=0" target="blank">
-  <img align="center" src="https://th.bing.com/th/id/R.10402e3621af84b92c24e0ee0d5122f0?rik=1gtWru4IxJEZPg&pid=ImgRaw&r=0" alt="luis" height="28px" width="28px" />
+ <a href="https://www.linkedin.com/in/luis-lucena-/" target="blank">
+  <img align="center" alt="Luis Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-   the.jpg/logos/website/website-icon.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
   <br/>
