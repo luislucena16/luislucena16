@@ -44,11 +44,11 @@ My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and 
  <a href="https://www.linkedin.com/in/luis-lucena-/" target="blank">
   <img align="center" alt="Luis LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/_luisald" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luis" height="28px" width="28px" />
- </a>
- <a href="https://www.linkedin.com/in/luis-lucena-/" target="blank">
-  <img align="center" alt="Luis Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-   the.jpg/logos/website/website-icon.svg" alt="luis" height="28px" width="28px" /> &nbsp; &nbsp;
+   <a href="https://www.twitter.com/_luisald" target="blank">
+  <img align="center" alt="Luis Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+ </a> 
+ <a href="https://bio.link/luislucena/" target="blank">
+  <img align="center" alt="Luis Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-     the.jpg" /> 
  </a>
   <br/>
   <br/>
