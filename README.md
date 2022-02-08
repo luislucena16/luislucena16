@@ -30,7 +30,6 @@ My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luislucena16&show_icons=true&count_private=true" />
 </a>
 
-<br />
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
