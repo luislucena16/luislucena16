@@ -21,7 +21,6 @@ My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
 
-<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
@@ -29,14 +28,6 @@ My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luislucena16&show_icons=true&count_private=true" />
 </a>
-
-
-
-
-
-
-
-
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
