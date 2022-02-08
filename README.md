@@ -45,7 +45,7 @@ My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and 
   <img align="center" alt="Luis LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
    <a href="https://www.twitter.com/_luisald" target="blank">
-  <img align="center" alt="Luis Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Luis Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
  </a> 
  <a href="https://bio.link/luislucena/" target="blank">
   <img align="center" alt="Luis Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-     the.jpg" /> 
