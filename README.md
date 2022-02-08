@@ -44,6 +44,9 @@ My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and 
  <a href="https://www.linkedin.com/in/luis-lucena-/" target="blank">
   <img align="center" alt="Luis LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
+ <a href="https://twitter.com/_luisald" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luis" height="28px" width="28px" />
+ </a>
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
