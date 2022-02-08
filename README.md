@@ -21,6 +21,23 @@ My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
 
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luislucena16&show_icons=true&count_private=true" />
+</a>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
+<img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
+<img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
+<img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
+<br /><br /><br /><br /><br /><br />
+
+
 
          |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
            I am an autodidact amateur!
