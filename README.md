@@ -31,12 +31,3 @@ My name is Luis Lucena, I'm a Blockchain Software Developer 👇 👇.
 </a>
 
 <br />
-
-         |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
-           I am an autodidact amateur!
-         |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
-                     \ (-◡-) / 
-                       \ / 
-                        --
-                        | |
-                        |_ |_
