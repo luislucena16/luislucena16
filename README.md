@@ -1,13 +1,12 @@
 ## Welcome 👋
 
-My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and enthusiast about Cybersecurity 
-
-- 🔭 I’m currently working with Blockchain, DeFi, Security Research and Software Development ...
-- 🌱 I’m currently learning Rust and more of Security Research ...
-- 👯 I’m looking to collaborate on differents projects about web3 and decentralized ecosystem ...
-- 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, web3 Games, IoT, GameFi ...
-- 💬 Ask me about: Work, services, consultancy, study, rock music, travel, nature, sports
-- 📫 How to reach me: https://bio.link/luislucena check my website and schedule a 1-1 meeting!!
+Hi everyone, Nice to greet you! I'm a Blockchain Engineer, passionate about DeFi, Seucurity Research and Cybersecurity enthusiast!
+- 🔭 I’m currently working with Blockchain Development, DeFi, Security Research and Software Development
+- 🌱 I’m currently learning Rust and more of Security Research
+- 👯 I’m looking to collaborate on differents projects about web3 and DeFi ecosystem
+- 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Web3 Games, IoT, GameFi
+- 💬 Ask me about: Work, services, consultancy, study, mentoring and classes!
+- 📫 How to reach me: [https://bio.link/luislucena](Luis Lucena website) check my website and schedule a 1-1 meeting!
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
 
@@ -51,5 +50,5 @@ My name is Luis Lucena, I'm a Blockchain Software Developer. I'm passionate and 
  </a>
   <br/>
   <br/>
-  Thanks for stopping by 😁<br/>
+  Thank you for visiting ✨<br/>
 </p>
