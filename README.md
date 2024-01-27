@@ -6,7 +6,7 @@ Hi everyone, Nice to greet you! I'm a Blockchain Engineer, passionate about DeFi
 - 👯 I’m looking to collaborate on differents projects about web3 and DeFi ecosystem
 - 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Web3 Games, IoT, GameFi
 - 💬 Ask me about: Work, services, consultancy, study, mentoring and classes!
-- 📫 How to reach me: [https://bio.link/luislucena](Luis Lucena website) check my website and schedule a 1-1 meeting!
+- 📫 How to reach me: [Luis Lucena website](https://bio.link/luislucena) check my website and schedule a 1-1 meeting!
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together!❤️
 
