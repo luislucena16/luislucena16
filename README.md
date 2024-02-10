@@ -1,7 +1,7 @@
 ## Welcome 👋
 
-Hi everyone. Nice to greet you! I'm a Blockchain Engineer, DeFi passionate, Seucurity Research and Cybersecurity enthusiast!
-- 🔭 I’m currently working with Blockchain Development, DeFi, Security Research and Software Development
+Hi everyone. Nice to greet you! I'm a Blockchain Engineer, DeFi passionate, Seucurity Research and Cybersecurity!
+- 🔭 I’m currently working with Blockchain Development, DeFi, Security Research and Software Development.
 - 🌱 I’m currently learning Rust and more of Security Research
 - 👯 I’m looking to collaborate on differents projects about web3 and DeFi ecosystem
 - 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Web3 Games, IoT, GameFi
