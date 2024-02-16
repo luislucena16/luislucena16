@@ -46,7 +46,7 @@ Hi everyone. Nice to greet you! I'm a Blockchain Engineer, DeFi passionate, Seuc
   <img align="center" alt="Luis Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
  </a> 
  <a href="https://bio.link/luislucena/" target="blank">
-  <img align="center" alt="Luis Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-     the.jpg" /> 
+  <img align="center" alt="Luis Lucena Website" width="30px" src="https://st3.depositphotos.com/11506542/16222/v/950/depositphotos_162224216-stock-illustration-icon-internet-symbol-of-     the.jpg" /> 
  </a>
   <br/>
   <br/>
