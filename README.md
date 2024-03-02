@@ -5,7 +5,7 @@ Hi everyone. Nice to greet you! I'm a Blockchain Engineer, Seucurity Research, D
 - 🌱 I’m currently learning Rust and more of Security Research
 - 👯 I’m looking to collaborate on differents projects about web3 and DeFi, that make the web3 ecosystem a better world! 
 - 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Security Research, Audits, Proxys, Blockchain Infrastructure, Web3 Games, IoT, GameFi.
-- 💬 Ask me about: Work, services, consultancy, study, mentoring and classes!
+- 💬 Ask me about: Work, services, consultancy, mentoring and classes!
 - 📫 How to reach me: [Luis Lucena website](https://bio.link/luislucena) check my website and schedule a 1-1 meeting!
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together! ❤️
