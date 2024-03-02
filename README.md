@@ -50,5 +50,5 @@ Hi everyone. Nice to greet you! I'm a Blockchain Engineer, Seucurity Research, D
  </a>
   <br/>
   <br/>
-  Thank you for visiting ✨<br/>
+  Thank you for your visit ✨<br/>
 </p>
