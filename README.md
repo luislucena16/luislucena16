@@ -2,7 +2,7 @@
 
 Hi everyone. I'm a Blockchain Engineer, Seucurity Research, passionate about DeFi, Cybersecurity and GNU-Linux!
 - 🔭 I’m currently working with Blockchain Development, DeFi, Security Research and Software Development.
-- 🌱 I’m currently learning Rust and more of Security Research(every day)!
+- 🌱 I’m currently learning Rust and more of Security Research(every day) focused in EVMs compatibles!
 - 👯 I’m looking to collaborate on differents projects about web3 development, infrastructure and DeFi to make the web3 ecosystem a better world! 
 - 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Security Research, Audits, Proxys, Blockchain Infrastructure, Web3 Games, IoT, GameFi.
 - 💬 Ask me about: Work, services, consultancy, mentoring and classes!
