@@ -12,7 +12,7 @@ Hi everyone. I'm a Blockchain Engineer, Seucurity Research, Blockchain DevOps, p
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,java,objective-c,starlark,python,nix,scss,handlebars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,java,objective-c,shell,starlark,python,nix,scss,handlebars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luislucena16&show_icons=true&count_private=true" />
