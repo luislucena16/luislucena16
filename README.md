@@ -46,5 +46,5 @@ Hi everyone. I'm a Blockchain Engineer, Security Research, Blockchain DevOps, pa
  </a>
   <br/>
   <br/>
-  Thank you for your visit ✨ <br/>
+                                                                  Thank you for your visit ✨ <br/>
 </p>
