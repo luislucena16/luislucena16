@@ -44,8 +44,6 @@ Hi everyone. I'm a Blockchain Engineer, Security Research, Blockchain DevOps, pa
 <a href="https://dev.to/luislucena16" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to luislucena16" height="30" width="30" /></a>
 </p>
  </a>
-  <br/>
-  <br/>
 <div align="center">
   <p>Thank you for your visit ✨</p>
 </div>
