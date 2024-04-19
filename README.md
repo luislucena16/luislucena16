@@ -11,7 +11,7 @@ Hi everyone. I'm a Blockchain Engineer, Security Research, Blockchain DevOps, pa
 - ⚡ Fun fact: Let's build some cool stuff together! ❤️
 
 My Chainlink Workshops for the Spanish Community here => [Chainlink](https://www.youtube.com/@chainlink)!
-i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
+- i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,makefile,java,objective-c,shell,starlark,python,nix,scss,handlebars" />
