@@ -10,7 +10,7 @@ Hi everyone. I'm a Blockchain Engineer, Security Research, Blockchain DevOps, pa
 - 😄 Pronouns: He - His
 - ⚡ Fun fact: Let's build some cool stuff together! ❤️
 
-My Chainlink Workshops for the Spanish Community here => [Chainlink](https://www.youtube.com/@chainlink)!
+My Chainlink Workshops for the Spanish Community => [Chainlink](https://www.youtube.com/@chainlink)!
 - i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
