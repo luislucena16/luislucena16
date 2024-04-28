@@ -14,7 +14,7 @@ My Chainlink Workshops for the Spanish Community => [Chainlink](https://www.yout
 - i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,makefile,java,objective-c,shell,starlark,nix,scss,handlebars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,makefile,java,objective-c,shell,python,starlark,nix,scss,handlebars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luislucena16&show_icons=true&count_private=true" />
