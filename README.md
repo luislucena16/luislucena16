@@ -7,7 +7,7 @@ Hi everyone. I'm a Blockchain Engineer, Security Research, Blockchain DevOps, pa
 - 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Security Research, Audits, Proxys, Blockchain Infrastructure, Web3 Games.
 - 💬 Ask me about: Work, services, consultancy, mentoring and classes!!
 - 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting!
-- 😄 Pronouns: He - His
+- 😄 Pronouns: He - His  
 - ⚡ Fun fact: Let's build some cool stuff together! ❤️
  
 My Chainlink Workshops for the Spanish Community => [Chainlink](https://www.youtube.com/@chainlink)
