@@ -9,7 +9,7 @@ Hi everyone. I'm a Sr Blockchain Engineer, Security Research, Blockchain DevOps,
 - 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting!
 - 😄 Pronouns: He - His  
 - ⚡ Fun fact: Let's build some cool stuff together! ❤️
- 
+  
 My Chainlink Workshops for the Spanish Community => [Chainlink Labs](https://www.youtube.com/@chainlink)
 - i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
 
