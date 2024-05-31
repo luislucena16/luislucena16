@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome 👋 
 
 Hi everyone. I'm a Sr Blockchain Engineer, Security Research, Blockchain DevOps, passionate about DeFi, Cybersecurity and GNU-Linux!
 - 🔭 I’m currently working with Blockchain Development, DeFi, Security Research, Software Development, Blockchain Infrastructure, DevOps and teaching about web3 development with [Chainlink Labs](https://chain.link/).
