@@ -23,8 +23,8 @@ My Chainlink workhops, bootcamps and hackathones => [Chainlink Labs](https://www
 - iv) Community Session => [Mentoring Session with the community](https://www.youtube.com/watch?v=24Ii_0HjiWo&list=PLVP9aGDn-X0Q6MhVUmJPVFsgAC4rwxi8a&index=28&t=10s)
 
 <p align="left">
-  <img src="https://pbs.twimg.com/media/FUS-eaFXoAwL8BK?format=jpg&name=medium" alt="Bootcamp1" width="627">
-  <img src="https://pbs.twimg.com/media/FUNgqVWXoAAKHWC?format=jpg&name=medium" alt="Bootcamp2" width="380">
+  <img src="https://pbs.twimg.com/media/FUS-eaFXoAwL8BK?format=jpg&name=medium" alt="Bootcamp1" width="427">
+  <img src="https://pbs.twimg.com/media/FUNgqVWXoAAKHWC?format=jpg&name=medium" alt="Bootcamp2" width="258">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
