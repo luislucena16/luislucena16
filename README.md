@@ -1,17 +1,31 @@
 ## Welcome 👋 
 
-Hi everyone. I'm a Sr Blockchain Engineer, Security Research, Blockchain DevOps, passionate about DeFi, Cybersecurity and GNU-Linux!
-- 🔭 I’m currently working with Blockchain Development, DeFi, Security Research, Software Development, Blockchain Infrastructure, DevOps and teaching about web3 development with [Chainlink Labs](https://chain.link/).
-- 🌱 I’m currently learning Rust and more of Security Research!
-- 👯 I’m looking to collaborate on differents projects about web3 development, infrastructure and DeFi to make the web3 ecosystem a better world! 
-- 🤔 I’m looking for help with Open Source Projects about DeFi Protocols, Security Research, Audits, Proxys, Blockchain Infrastructure, Web3 Games.
-- 💬 Ask me about: Work, services, consultancy, mentoring and classes!!
+Hi everyone. I'm a Sr Blockchain Engineer, DevRel Engineer, Security Research, Blockchain DevOps, passionate about DeFi, Cybersecurity and GNU-Linux.
+- 🔭 I’m currently working with Blockchain Development, DeFi, Security Research, Software Development, Infrastructure, DevOps and teaching about Web3 development with [Chainlink Labs](https://chain.link/) as Chainlink Developer Expert & Advocate.
 - 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting!
-- 😄 Pronouns: He - His  
-- ⚡ Fun fact: Let's build some cool stuff together! ❤️
   
-My Chainlink Workshops for the Chainlink Spanish Community => [Chainlink Labs](https://www.youtube.com/@chainlink)
+```typescript
+const luislucena16 = {
+  fullName: "Luis Lucena",
+  pronouns: "He/Him",
+  tags: ["Engineering, Design Systems ❤️", "Full-Stack 👨‍💻", "Blockchain & DeFi 🔗", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
+  communities: ["Chainlink Developer Expert & Advocate ES - Global", "Hedera Community", "Midnight Community"],
+  askMeAbout: ["Projects", "Cloud Technology", "Open Source", "APIs", "Collabs", "Services"],
+  reachMeOut: ["https://bio.link/luislucena"],
+  toFindMeUsername: "@luislucena16"
+};
+```
+
+My Chainlink workhops, bootcamps and hackathones => [Chainlink Labs](https://www.youtube.com/@chainlink)
 - i) Blockchain Fundamentals => [Blockchain Fundamentals Video](https://www.youtube.com/watch?v=fHv80iLeji0&t=316s)
+- ii) Markepltaces with Solidity => [Develop your own Marketplace in Solidity using ERC20, ERC721](https://www.youtube.com/watch?v=hXd3YipSwGQ&pp=ygUVbHVpcyBsdWNlbmEgY2hhaW5saW5r)
+- iii) Chainlink Hackathon => [Hackathon Winners presentation](https://www.youtube.com/watch?v=OoXZ2yhaHTg&pp=ygUVbHVpcyBsdWNlbmEgY2hhaW5saW5r)
+- iv) Community Session => [Mentoring Session with the community](https://www.youtube.com/watch?v=24Ii_0HjiWo&list=PLVP9aGDn-X0Q6MhVUmJPVFsgAC4rwxi8a&index=28&t=10s)
+
+<p align="left">
+  <img src="https://pbs.twimg.com/media/FUS-eaFXoAwL8BK?format=jpg&name=large" alt="Bootcamp1" width="627">
+  <img src="https://pbs.twimg.com/media/FUNgqVWXoAAKHWC?format=jpg&name=large" alt="Bootcamp2" width="380">
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislucena16&hide=html,ruby,css,makefile,java,objective-c,shell,python,starlark,nix,scss,handlebars" />
