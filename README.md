@@ -4,16 +4,38 @@ Hi everyone. I'm a Sr Blockchain Engineer, DevRel Engineer, Security Research, B
 - 🔭 I’m currently working with Blockchain Development, DeFi, Security Research, Software Development, Infrastructure, DevOps and teaching about Web3 development with [Chainlink Labs](https://chain.link/) as Chainlink Developer Expert & Advocate.
 - 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting!
   
-```typescript
-const luislucena16 = {
-  fullName: "Luis Lucena",
-  pronouns: "He/Him",
-  tags: ["Engineering, Design Systems ❤️", "Full-Stack 👨‍💻", "Blockchain & DeFi 🔗", "Open-Source 🚀", "Hackathons ⚡", "Cloud 🌩️", "Backend 💡", "Mentoring 🙌", "Communities 🎯"],
-  communities: ["Chainlink Developer Expert & Advocate ES - Global", "Hedera Community", "Midnight Community"],
-  askMeAbout: ["Projects", "Cloud Technology", "Open Source", "APIs", "Collabs", "Services"],
-  reachMeOut: ["https://bio.link/luislucena"],
-  toFindMeUsername: "@luislucena16"
-};
+```rust
+fn main() {
+    let luislucena16 = Profile {
+        full_name: "Luis Lucena",
+        pronouns: "He/Him",
+        tags: &[
+            "Engineering, Design Systems ❤️",
+            "Full-Stack 👨‍💻",
+            "Blockchain & DeFi 🔗",
+            "Open-Source 🚀",
+            "Hackathons ⚡",
+            "Cloud 🌩️",
+            "Backend 💡",
+            "Mentoring 🙌",
+            "Communities 🎯"
+        ],
+        communities: &[
+            "Chainlink Developer Expert & Advocate ES - Global",
+            "Hedera Community",
+            "Midnight Community"
+        ],
+        ask_me_about: &[
+            "Projects",
+            "Cloud Technology",
+            "Open Source",
+            "APIs",
+            "Collabs",
+            "Services"
+        ],
+        reach_me_out: &["https://bio.link/luislucena"],
+        to_find_me_username: "@luislucena16"
+    };
 ```
 
 My Chainlink workhops, bootcamps and hackathones => [Chainlink Labs](https://www.youtube.com/@chainlink)
