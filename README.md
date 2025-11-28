@@ -90,5 +90,3 @@ My Chainlink workhops, bootcamps and hackathones => [Chainlink Labs](https://www
 </div>
 </p>
 
-
-
