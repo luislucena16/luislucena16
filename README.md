@@ -10,32 +10,25 @@ fn main() {
         full_name: "Luis Lucena",
         pronouns: "He/Him",
         tags: &[
-            "Engineering, Design Systems ❤️",
-            "Full-Stack 👨‍💻",
-            "Blockchain & DeFi 🔗",
-            "Open-Source 🚀",
-            "Hackathons ⚡",
-            "Cloud 🌩️",
-            "Backend 💡",
-            "Mentoring 🙌",
-            "Communities 🎯"
+            "Engineering & Design Systems ❤️",
+            "Blockchain & Cloud 🔗🌩️",
+            "Open Source Contributions 🚀⚡",
+            "Mentoring 💡🙌"
         ],
         communities: &[
-            "Chainlink Developer Expert & Advocate ES - Global",
-            "Hedera Community",
-            "Midnight Community"
+            "Chainlink Developer Expert ES",
+            "Hedera & Midnight Community"
         ],
         ask_me_about: &[
             "Projects",
-            "Cloud Technology",
-            "Open Source",
+            "Cloud",
             "APIs",
-            "Collabs",
-            "Services"
+            "Collabs"
         ],
         reach_me_out: &["https://bio.link/luislucena"],
         to_find_me_username: "@luislucena16"
     };
+}
 ```
 
 My Chainlink workhops, bootcamps and hackathones => [Chainlink Labs](https://www.youtube.com/@chainlink)
