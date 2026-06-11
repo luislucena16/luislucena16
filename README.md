@@ -2,7 +2,7 @@
 
 Hi everyone. I'm a Sr. Software Engineer, DevRel Engineer, Security Research, Blockchain DevOps, passionate about DeFi, Cybersecurity and GNU-Linux.
 - 🔭 I’m currently working with Engineering, Blockchain Development, DeFi, Security Research, Software Development, Infrastructure, DevOps and teaching about Web3 development with [Chainlink Labs](https://chain.link/) as Chainlink Developer Expert & Advocate.
-- 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting!!
+- 📫 How to reach me: check my website [Luis Lucena website](https://bio.link/luislucena) and schedule a 1-1 meeting
 
 ```rust
 fn main() {
