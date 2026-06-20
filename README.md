@@ -9,12 +9,12 @@
 ---
 
 ### About me
-Passionate about **DeFi, Cybersecurity and GNU/Linux**. I build and teach across the Web3 stack.
+Passionate about **Engineering, DeFi, Cybersecurity and GNU/Linux**. I build and teach across the Web3 stack.
 
-- 🔭 Currently working on **Engineering, Blockchain Development, DeFi, Security Research, Infrastructure & DevOps**
-- 🧑‍🏫 Teaching Web3 development as a **Chainlink Developer Expert & Advocate** [@Chainlink Labs](https://chain.link/)
-- 📫 Reach me via my [website](https://bio.link/luislucena) — feel free to schedule a 1:1
-- ⚡ Ask me about **Blockchain · Security · Cloud · APIs · Collabs**
+- Currently working on **Engineering, Blockchain Development, DeFi, Security Research, Infrastructure & DevOps**
+- Teaching Web3 development as a **Chainlink Developer Expert & Advocate** [@Chainlink Labs](https://chain.link/)
+- Reach me via my [website](https://bio.link/luislucena) — feel free to schedule a 1:1
+- Ask me about **Blockchain · Security · Cloud · APIs · Collabs**
 
 ```rust
 fn main() {
