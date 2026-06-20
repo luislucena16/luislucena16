@@ -48,19 +48,19 @@ Workshops, bootcamps and hackathon sessions delivered for the developer communit
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="28%">Session</th>
-      <th align="left" width="52%">Topic</th>
+      <th align="left" width="32%">Session</th>
+      <th align="left" width="48%">Topic<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Transparent.gif" width="600" height="1" alt=""></th>
       <th align="center" width="20%">Recording</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Blockchain Fundamentals</strong></td>
+      <td><strong>Blockchain&nbsp;Fundamentals</strong></td>
       <td>Core concepts & first steps in Web3</td>
       <td align="center"><a href="https://www.youtube.com/watch?v=fHv80iLeji0&t=316s"><img src="https://img.shields.io/badge/Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch" /></a></td>
     </tr>
     <tr>
-      <td><strong>Marketplaces with Solidity</strong></td>
+      <td><strong>Marketplaces&nbsp;with&nbsp;Solidity</strong></td>
       <td>Building a marketplace with ERC-20 & ERC-721</td>
       <td align="center"><a href="https://www.youtube.com/watch?v=hXd3YipSwGQ"><img src="https://img.shields.io/badge/Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch" /></a></td>
     </tr>
@@ -70,7 +70,7 @@ Workshops, bootcamps and hackathon sessions delivered for the developer communit
       <td align="center"><a href="https://www.youtube.com/watch?v=OoXZ2yhaHTg"><img src="https://img.shields.io/badge/Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch" /></a></td>
     </tr>
     <tr>
-      <td><strong>Community Mentoring Session</strong></td>
+      <td><strong>Community&nbsp;Mentoring&nbsp;Session</strong></td>
       <td>Live Q&A and guidance for builders</td>
       <td align="center"><a href="https://www.youtube.com/watch?v=24Ii_0HjiWo"><img src="https://img.shields.io/badge/Watch-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch" /></a></td>
     </tr>
