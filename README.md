@@ -48,9 +48,9 @@ Workshops, bootcamps and hackathon sessions delivered for the developer communit
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="32%">Session</th>
-      <th align="left" width="48%">Topic<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Transparent.gif" width="600" height="1" alt=""></th>
-      <th align="center" width="20%">Recording</th>
+      <th align="left">Session</th>
+      <th align="left">Topic<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Transparent.gif" width="200" height="1" alt=""></th>
+      <th align="center">Recording</th>
     </tr>
   </thead>
   <tbody>
