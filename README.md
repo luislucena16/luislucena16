@@ -1,31 +1,13 @@
-<h1 align="center">Hi, I'm Luis Lucena 👋</h1>
-<h3 align="center">Sr. Software Engineer · Blockchain · AI · Security Research</h3>
-
-<p align="center">
-  <a href="https://bio.link/luislucena"><img src="https://img.shields.io/badge/Book_a_1:1-bio.link-000000?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=luislucena16&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
-
----
-
-### About me
-Passionate about **Engineering, DeFi, Cybersecurity and GNU/Linux**. I build and teach across the Web3 stack.
-
-- Currently working on **Engineering, Blockchain Development, DeFi, Security Research, Infrastructure & DevOps**
-- Teaching Web3 development as a **Chainlink Developer Expert & Advocate** [@Chainlink Labs](https://chain.link/)
-- Reach me via my [website](https://bio.link/luislucena) — feel free to schedule a 1:1
-- Ask me about **Blockchain · Security · Cloud · APIs · Collabs**
-
 ```rust
 fn main() {
     let luislucena16 = Profile {
         full_name: "Luis Lucena",
         pronouns: "He/Him",
         tags: &[
-            "Engineering & Design Systems ❤️",
-            "Blockchain & Cloud 🔗🌩️",
-            "Open Source Contributions 🚀⚡",
-            "Mentoring 💡🙌",
+            "Engineering & Design Systems",
+            "Blockchain & Cloud",
+            "Open Source Contributions",
+            "Mentoring,
         ],
         communities: &[
             "Chainlink Developer Expert ES",
