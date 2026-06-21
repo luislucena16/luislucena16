@@ -9,10 +9,6 @@ fn main() {
             "Open Source Contributions",
             "Mentoring,
         ],
-        communities: &[
-            "Chainlink Developer Expert ES",
-            "Hedera & Midnight Community",
-        ],
         ask_me_about: &["Blockchain", "Security", "Cloud", "APIs", "Collabs"],
         reach_me_out: &["https://bio.link/luislucena"],
         username: "@luislucena16",
