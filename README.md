@@ -1,20 +1,4 @@
-```rust
-fn main() {
-    let luislucena16 = Profile {
-        full_name: "Luis Lucena",
-        pronouns: "He/Him",
-        tags: &[
-            "Engineering & Design Systems",
-            "Blockchain & Cloud",
-            "Open Source Contributions",
-            "Mentoring,
-        ],
-        ask_me_about: &["Blockchain", "Security", "Cloud", "APIs", "Collabs"],
-        reach_me_out: &["https://bio.link/luislucena"],
-        username: "@luislucena16",
-    };
-}
-```
+Building things really useful ❤️❤️
 
 ---
 
