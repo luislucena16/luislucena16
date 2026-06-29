@@ -1,4 +1,4 @@
-### Sr Software Engineer · Building things really useful ❤️
+### Sr Software Engineer · building things really useful ❤️
 
 ---
 
